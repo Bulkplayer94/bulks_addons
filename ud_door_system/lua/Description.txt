@@ -1,0 +1,1 @@
+Dieses Entity ist dafür um Tore und Türen per Command zu öffnen.

@@ -1,0 +1,6 @@
+Ein paar Chat Commands um Funks zu senden.
+/werbung
+/funk
+/ffunk
+/pfunk
+/looc (Verbugt)

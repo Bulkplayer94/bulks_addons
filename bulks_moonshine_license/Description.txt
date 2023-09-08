@@ -1,0 +1,2 @@
+Dieses Addon funktioniert fügt eine Lizenz für Zeros YeastBeast hinzu,
+damit Polzisten diese auslesen können.
